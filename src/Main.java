@@ -45,7 +45,7 @@ public class Main {
 
             burritos[i] = "Burrito " + (i + 1) + ": " + rice[riceRandom] + ", " + meat[meatRandom] + ", " + beans[beansRandom] + ", " + salsa[salsaRandom] + ", " + veggies[veggiesRandom];
 
-            System.out.println(burritos[i]);
+            System.out.println(burritos[i +2]);
 
         }
     }
